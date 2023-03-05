@@ -1,0 +1,3 @@
+C:\Users\Oskar\RiderProjects\Intel8086\Intel8086\obj\Debug\Intel8086.csproj.AssemblyReference.cache
+C:\Users\Oskar\RiderProjects\Intel8086\Intel8086\obj\Debug\Intel8086.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oskar\RiderProjects\Intel8086\Intel8086\obj\Debug\Intel8086.csproj.CoreCompileInputs.cache
